@@ -175,4 +175,4 @@ if not shared.VertexExecuted then
 end
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mathersg4/Xeno/refs/heads/main/mm2script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mathersg4/MM2/refs/heads/main/mm2script", true))()
